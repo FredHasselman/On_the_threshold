@@ -278,3 +278,4 @@ p2 <- ggplot(alphadata,aes(x=alpha.level,y=r.ori.rep.log10)) +
                    legend.position = c(.1,.50))
 
 grid.arrange(p1,p2)
+
